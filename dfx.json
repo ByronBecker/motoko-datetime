@@ -1,8 +1,0 @@
-{
-  "canisters": {
-    "test": {
-      "main": "test/Main.mo"
-    }
-  },
-  "dfx": "0.12.1"
-}
