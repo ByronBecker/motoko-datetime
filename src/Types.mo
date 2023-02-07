@@ -1,4 +1,4 @@
-
+/// A module containing Types used by the DateTime module
 
 module {
   /// A variant type to represent the day of the week.

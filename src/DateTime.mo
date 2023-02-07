@@ -1,3 +1,5 @@
+/// Module containing the DateTime class and several static functions for working with dates and times.
+
 import Int "mo:base/Int";
 import Nat "mo:base/Nat";
 import Time "mo:base/Time";
